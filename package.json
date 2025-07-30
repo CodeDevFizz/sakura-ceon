@@ -2,11 +2,11 @@
   "name": "sakura-ceon",
   "displayName": "Sakura Ceon",
   "description": "A simple cute Sakura inspired theme for Visual Studio Code.",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "category": "Themes",
   "publisher": "CodeDevFizz",
   "engines": {
-    "vscode": "^1.102.0"
+    "vscode": "^1.99.3"
   },
   "repository": {
     "type": "git",
