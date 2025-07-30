@@ -1,0 +1,33 @@
+{
+  "name": "sakura-ceon",
+  "displayName": "Sakura Ceon",
+  "description": "A simple cute Sakura inspired theme for Visual Studio Code.",
+  "version": "1.0.0",
+  "category": "Themes",
+  "publisher": "CodeDevFizz",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "dark theme",
+    "sakura theme",
+    "sakura",
+    "ceon",
+    "cute",
+    "codedevfizz"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Skaura Ceon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Skaura Ceon-color-theme.json"
+      }
+    ]
+  }
+}
